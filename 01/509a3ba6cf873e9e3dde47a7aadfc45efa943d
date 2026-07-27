@@ -1,0 +1,21 @@
+model_prices_and_context_window.json
+  s_7600f12b1dc12a::t_55c00b95b463a9 28249-28267
+litellm/model_prices_and_context_window_backup.json
+  s_7600f12b1dc12a::t_55c00b95b463a9 28174-28192
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "01509a3ba6cf873e9e3dde47a7aadfc45efa943d",
+  "prompts": {},
+  "sessions": {
+    "s_7600f12b1dc12a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05a7b016affeCIc0pZdQGpi3Bn",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Farhan Ahmad Nurzi <farhan.nurzi@glovoapp.com>"
+    }
+  }
+}
