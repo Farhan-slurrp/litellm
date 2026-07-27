@@ -1,0 +1,35 @@
+litellm/llms/moonshot/chat/transformation.py
+  s_7600f12b1dc12a::t_4013cc81cf4d90 109
+  h_542f8aaf5a548e 95
+  s_7600f12b1dc12a::t_329966181d1868 110-111
+tests/test_litellm/llms/moonshot/test_moonshot_chat_transformation.py
+  s_7600f12b1dc12a::t_70f4b77d546641 65-68,70,72-75,77-79
+  s_7600f12b1dc12a::t_e83bc1cad56da9 71
+  s_7600f12b1dc12a::t_4013cc81cf4d90 69
+  h_542f8aaf5a548e 76,80
+litellm/model_prices_and_context_window_backup.json
+  s_7600f12b1dc12a::t_329966181d1868 28185
+model_prices_and_context_window.json
+  s_7600f12b1dc12a::t_329966181d1868 28260
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "d637f1af0cc8b289a72e9b3162ff33cfe8010287",
+  "prompts": {},
+  "humans": {
+    "h_542f8aaf5a548e": {
+      "author": "Farhan Ahmad Nurzi <farhan.nurzi@glovoapp.com>"
+    }
+  },
+  "sessions": {
+    "s_7600f12b1dc12a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05a7b016affeCIc0pZdQGpi3Bn",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Farhan Ahmad Nurzi <farhan.nurzi@glovoapp.com>"
+    }
+  }
+}
